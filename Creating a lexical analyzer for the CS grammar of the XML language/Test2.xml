@@ -1,0 +1,22 @@
+<bookstore>
+	<book category="Fantasy">
+		<title>The Hobbit</title>
+		<author>J.R.R. Tolkien</author>
+		<price>19.99</price>
+	</book>
+	<book category="Science Fiction">
+		<title>Dune</title>
+		<author>Frank Herbert</author>
+		<price>24.95</price>
+	</book>
+	<book category="Mystery">
+		<title>The Da Vinci Code</title>
+		<author>Dan Brown</author>
+		<price>15.99</price>
+	</book>
+</bookstore>
+
+
+
+
+
