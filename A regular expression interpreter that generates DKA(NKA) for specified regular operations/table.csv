@@ -1,0 +1,11 @@
+0;1
+A;B;F
+B;G;C
+C;A;C
+D;C;G
+E;H;F
+F;C;G
+G;G;E
+H;G;C
+*;C
+>;A
